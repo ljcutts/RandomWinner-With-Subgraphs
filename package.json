@@ -1,0 +1,20 @@
+{
+  "name": "randomwinnergame-with-the-graph",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ljcutts/RandomWinnerGame-With-The-Graph.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ljcutts/RandomWinnerGame-With-The-Graph/issues"
+  },
+  "homepage": "https://github.com/ljcutts/RandomWinnerGame-With-The-Graph#readme"
+}
